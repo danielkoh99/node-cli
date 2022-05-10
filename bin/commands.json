@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Create file",
+        "command": "cf",
+        "usage": "<filename> <extension>"
+    },
+    {
+        "name": "Rename file",
+        "command": "rf",
+        "usage": "<filename>"
+    },
+    {
+        "name": "Delete file",
+        "command": "df",
+        "usage": "<filename><extension> <newfilename><extension>"
+    },
+    {
+        "name": "Create template file",
+        "command": "ctf",
+        "usage": "<filename>"
+    }
+]

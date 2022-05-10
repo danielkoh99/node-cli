@@ -1,0 +1,35 @@
+[
+    {
+        "name": "react",
+        "template": [
+            "import React from 'react'",
+            "export default function",
+            "",
+            "() {",
+            "return (",
+            " <div>",
+            "<p>this is a template</p>",
+            "</div>)}"
+        ],
+        "extension": ".jsx"
+    },
+    {
+        "name": "vue",
+        "template": [
+            "<template>",
+            "<div>",
+            "<p>this is a template</p>",
+            "</div>",
+            "</template>",
+            "<script>",
+            "export default {",
+            "name:",
+            "",
+            "}",
+            "</script>",
+            "<style>",
+            "</style>"
+        ],
+        "extension": ".vue"
+    }
+]
